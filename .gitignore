@@ -1,0 +1,9 @@
+# IDEs
+.idea
+*.sublime-*
+.vscode
+.DS_Store
+*.swp
+
+
+./copier-panic-repro
